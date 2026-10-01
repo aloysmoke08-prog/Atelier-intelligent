@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+*.log
+index.ancien.html
+l_atelier_intelligent_mode_sombre_dark_mode/
